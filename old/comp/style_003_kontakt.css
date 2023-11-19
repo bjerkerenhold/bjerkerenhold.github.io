@@ -1,0 +1,94 @@
+.shortcode-contact-form-7 .title {
+  font-size: 2rem;
+  font-weight: 500; }
+
+.shortcode-contact-form-7.type_1 input,
+.shortcode-contact-form-7.type_1 textarea {
+  margin-bottom: 20px; }
+
+.shortcode-contact-form-7.type_1 .row {
+  margin-left: -10px;
+  margin-right: -10px; }
+  .shortcode-contact-form-7.type_1 .row [class^="col-"] {
+    padding-left: 10px;
+    padding-right: 10px; }
+
+.shortcode-contact-form-7.type_2 {
+  text-align: center; }
+  .shortcode-contact-form-7.type_2 .title {
+    height: 100px;
+    border-radius: 10px 10px 0 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center; }
+    .shortcode-contact-form-7.type_2 .title .subtitle {
+      text-transform: none;
+      font-weight: 400; }
+  .shortcode-contact-form-7.type_2 .contact-form-container {
+    border-radius: 0 0 10px 10px;
+    padding: 60px; }
+    .shortcode-contact-form-7.type_2 .contact-form-container p {
+      margin-bottom: 0; }
+    .shortcode-contact-form-7.type_2 .contact-form-container .field-with-icon {
+      position: relative; }
+      .shortcode-contact-form-7.type_2 .contact-form-container .field-with-icon i {
+        position: absolute;
+        top: 22px;
+        right: 20px; }
+  .shortcode-contact-form-7.type_2 input[type="text"],
+  .shortcode-contact-form-7.type_2 input[type="email"],
+  .shortcode-contact-form-7.type_2 input[type="url"],
+  .shortcode-contact-form-7.type_2 input[type="number"],
+  .shortcode-contact-form-7.type_2 input[type="date"],
+  .shortcode-contact-form-7.type_2 textarea {
+    width: 100%;
+    padding-left: 30px;
+    padding-right: 50px; }
+    .shortcode-contact-form-7.type_2 input[type="text"]::-webkit-input-placeholder,
+    .shortcode-contact-form-7.type_2 input[type="email"]::-webkit-input-placeholder,
+    .shortcode-contact-form-7.type_2 input[type="url"]::-webkit-input-placeholder,
+    .shortcode-contact-form-7.type_2 input[type="number"]::-webkit-input-placeholder,
+    .shortcode-contact-form-7.type_2 input[type="date"]::-webkit-input-placeholder,
+    .shortcode-contact-form-7.type_2 textarea::-webkit-input-placeholder {
+      font-size: 14px;
+      font-weight: 500; }
+    .shortcode-contact-form-7.type_2 input[type="text"]::-moz-placeholder,
+    .shortcode-contact-form-7.type_2 input[type="email"]::-moz-placeholder,
+    .shortcode-contact-form-7.type_2 input[type="url"]::-moz-placeholder,
+    .shortcode-contact-form-7.type_2 input[type="number"]::-moz-placeholder,
+    .shortcode-contact-form-7.type_2 input[type="date"]::-moz-placeholder,
+    .shortcode-contact-form-7.type_2 textarea::-moz-placeholder {
+      font-size: 14px;
+      font-weight: 500; }
+    .shortcode-contact-form-7.type_2 input[type="text"]:-ms-input-placeholder,
+    .shortcode-contact-form-7.type_2 input[type="email"]:-ms-input-placeholder,
+    .shortcode-contact-form-7.type_2 input[type="url"]:-ms-input-placeholder,
+    .shortcode-contact-form-7.type_2 input[type="number"]:-ms-input-placeholder,
+    .shortcode-contact-form-7.type_2 input[type="date"]:-ms-input-placeholder,
+    .shortcode-contact-form-7.type_2 textarea:-ms-input-placeholder {
+      font-size: 14px;
+      font-weight: 500; }
+    .shortcode-contact-form-7.type_2 input[type="text"]:-moz-placeholder,
+    .shortcode-contact-form-7.type_2 input[type="email"]:-moz-placeholder,
+    .shortcode-contact-form-7.type_2 input[type="url"]:-moz-placeholder,
+    .shortcode-contact-form-7.type_2 input[type="number"]:-moz-placeholder,
+    .shortcode-contact-form-7.type_2 input[type="date"]:-moz-placeholder,
+    .shortcode-contact-form-7.type_2 textarea:-moz-placeholder {
+      font-size: 14px;
+      font-weight: 500; }
+
+.shortcode-tabs .tab-content .tab-pane .contact-form-container {
+  padding: 0; }
+
+@media screen and (max-width: 767px) {
+  .shortcode-contact-form-7.type_2 .contact-form-container {
+    padding: 30px; } }
+
+/*# sourceMappingURL=style.css.map */

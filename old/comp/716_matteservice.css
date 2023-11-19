@@ -1,0 +1,50 @@
+/** ------------------------------------------
+* This file is generated automatically.
+* See 'source' directory in theme or shortcode.
+------------------------------------------ **/
+
+
+
+
+
+
+html[dir="ltr"] body .shortcode-special-heading.shortcode-0ccdfcb5c39274afe56ca9ee0f27cee0 {
+  padding: 5px 0 5px 30px;
+  margin-bottom: 3.75rem; }
+  html[dir="ltr"] body .shortcode-special-heading.shortcode-0ccdfcb5c39274afe56ca9ee0f27cee0:after {
+    left: 0; }
+
+html[dir="rtl"] body .shortcode-special-heading.shortcode-0ccdfcb5c39274afe56ca9ee0f27cee0 {
+  padding: 5px 30px 5px 0;
+  margin-bottom: 3.75rem;
+  padding: 5px 0 5px 30px; }
+  html[dir="rtl"] body .shortcode-special-heading.shortcode-0ccdfcb5c39274afe56ca9ee0f27cee0:after {
+    right: 0;
+    right: auto;
+    left: 0; }
+
+body .shortcode-special-heading.shortcode-0ccdfcb5c39274afe56ca9ee0f27cee0 {
+  text-align: left; }
+  body .shortcode-special-heading.shortcode-0ccdfcb5c39274afe56ca9ee0f27cee0:after {
+    display: block;
+    position: absolute;
+    top: 0;
+    width: 3px;
+    height: 100%; }
+
+@media screen and (max-width: 767px) {
+  body .shortcode-special-heading.shortcode-0ccdfcb5c39274afe56ca9ee0f27cee0 {
+    margin-bottom: 1.5625rem; } }
+
+
+
+body .shortcode-a70e3fcd306aab0ff13a133a8467a645 {
+  margin: 40px auto 0 auto; }
+
+
+body .shortcode-nc2b35cc359a01f84e8241b5a0e700d16 .my-col-with-logo {
+  text-align: center; }
+
+
+body .shortcode-w178ac78864da321266e201fcbfdcf0d5 {
+  margin: 60px auto 50px auto; }

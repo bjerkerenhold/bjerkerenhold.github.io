@@ -1,0 +1,57 @@
+.shortcode-accordion .panel {
+  border: none;
+  list-style: none;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  margin-top: 10px !important;
+  border-radius: 10px; }
+  .shortcode-accordion .panel > a {
+    text-decoration: none;
+    word-wrap: break-word;
+    position: relative;
+    display: block;
+    border-radius: 10px 10px 0px 0px;
+    min-height: 60px;
+    -webkit-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out; }
+    .shortcode-accordion .panel > a:after {
+      content: '-';
+      position: absolute;
+      top: 0;
+      display: block;
+      text-align: center;
+      width: 50px;
+      height: 60px;
+      line-height: 60px;
+      font-size: 20px;
+      font-weight: 200; }
+    .shortcode-accordion .panel > a.collapsed {
+      border-radius: 10px;
+      -webkit-transition: all 0.3s ease-out;
+      transition: all 0.3s ease-out; }
+      .shortcode-accordion .panel > a.collapsed:hover {
+        -webkit-transition: all 0.3s ease-out;
+        transition: all 0.3s ease-out; }
+        .shortcode-accordion .panel > a.collapsed:hover i {
+          background: transparent;
+          -webkit-text-fill-color: currentcolor;
+          -webkit-transition: all 0.3s ease-out;
+          transition: all 0.3s ease-out; }
+      .shortcode-accordion .panel > a.collapsed:after {
+        content: '+';
+        -webkit-transition: all 0.3s ease-out;
+        transition: all 0.3s ease-out; }
+      .shortcode-accordion .panel > a.collapsed i {
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent; }
+    .shortcode-accordion .panel > a i {
+      position: relative;
+      width: 2em;
+      text-align: center;
+      display: inline-block; }
+  .shortcode-accordion .panel .content {
+    padding: 0 20px; }
+    .shortcode-accordion .panel .content .content-wrapper {
+      padding: 40px 0 20px; }
+
+/*# sourceMappingURL=style.css.map */

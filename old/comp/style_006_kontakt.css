@@ -1,0 +1,44 @@
+.shortcode-icon .icon-left {
+  position: relative; }
+  .shortcode-icon .icon-left .item-icon {
+    position: absolute;
+    top: 0; }
+
+.shortcode-icon .icon-top {
+  text-align: center; }
+  .shortcode-icon .icon-top .item-icon {
+    margin-bottom: 10px; }
+    .shortcode-icon .icon-top .item-icon .icon-wrap {
+      display: block;
+      width: 90px;
+      height: 90px;
+      margin: 0 auto 35px;
+      border-radius: 50%;
+      position: relative; }
+      .shortcode-icon .icon-top .item-icon .icon-wrap i {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        -webkit-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+        font-size: 32px; }
+
+.shortcode-icon .icon-left .item-icon i {
+  font-size: 1.75rem;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: auto;
+  height: auto; }
+
+.shortcode-icon .title,
+.shortcode-icon .title a {
+  font-size: 1.25rem;
+  line-height: 100%; }
+
+.shortcode-icon .description {
+  margin-top: 20px; }
+  .shortcode-icon .description p {
+    line-height: inherit;
+    margin-bottom: 8px; }
+
+/*# sourceMappingURL=style.css.map */

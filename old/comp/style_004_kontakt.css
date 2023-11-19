@@ -1,0 +1,8 @@
+.shortcode-icon-box .description {
+  font-size: 0.875rem; }
+
+@media screen and (max-width: 992px) {
+  .shortcode-icon-box > div {
+    margin-bottom: 3.125rem; } }
+
+/*# sourceMappingURL=style.css.map */

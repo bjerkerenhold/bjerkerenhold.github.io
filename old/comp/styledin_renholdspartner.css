@@ -1,0 +1,47 @@
+.shortcode-tabs.type_1 ul {
+  border-bottom-width: 4px;
+  border-bottom-style: solid; }
+  .shortcode-tabs.type_1 ul li {
+    display: inline-block; }
+    .shortcode-tabs.type_1 ul li a {
+      display: block;
+      border-radius: 10px 10px 0px 0px;
+      border-width: 1px;
+      border-style: solid;
+      border-bottom: none;
+      padding: 19px 50px;
+      margin-right: 1px;
+      text-transform: uppercase;
+      -webkit-transition: all 0.3s ease-out;
+      transition: all 0.3s ease-out; }
+    .shortcode-tabs.type_1 ul li.active a {
+      border-color: transparent; }
+
+.shortcode-tabs.type_1 .tab-pane {
+  border-radius: 0px 0px 10px 10px;
+  padding: 3.75rem; }
+
+.shortcode-tabs.type_2 ul.tablist {
+  margin-bottom: 2.5rem;
+  text-align: center; }
+  .shortcode-tabs.type_2 ul.tablist li {
+    display: inline-block;
+    margin: 0 5px 1.25rem; }
+    .shortcode-tabs.type_2 ul.tablist li a {
+      display: block;
+      height: 100%;
+      padding: 10px 30px;
+      border-radius: 20px;
+      text-transform: uppercase;
+      cursor: pointer;
+      -webkit-transition: all 0.3s ease-out;
+      transition: all 0.3s ease-out; }
+
+@media screen and (max-width: 768px) {
+  .shortcode-tabs.type_1 ul li a {
+    padding-left: 10px;
+    padding-right: 10px; }
+  .shortcode-tabs.type_1 .tab-column:not(:last-child) {
+    margin-bottom: 20px; } }
+
+/*# sourceMappingURL=style.css.map */

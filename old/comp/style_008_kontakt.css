@@ -1,0 +1,200 @@
+.shortcode-team.type_1 .shortcode-special-heading {
+  position: relative;
+  margin-bottom: 3.75rem; }
+  .shortcode-team.type_1 .shortcode-special-heading:after {
+    display: block;
+    position: absolute;
+    top: 0;
+    width: 3px;
+    height: 100%; }
+  .shortcode-team.type_1 .shortcode-special-heading .title,
+  .shortcode-team.type_1 .shortcode-special-heading .subtitle {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis; }
+
+.shortcode-team.type_1 .slider-controls {
+  font-size: 0; }
+  .shortcode-team.type_1 .slider-controls .prev,
+  .shortcode-team.type_1 .slider-controls .next {
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    position: relative;
+    cursor: pointer; }
+    .shortcode-team.type_1 .slider-controls .prev i,
+    .shortcode-team.type_1 .slider-controls .next i {
+      font-size: 10px;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      -webkit-transform: translate(-50%, -50%);
+              transform: translate(-50%, -50%); }
+
+.shortcode-team.type_1 .photo {
+  border-radius: 10px;
+  overflow: hidden; }
+
+.shortcode-team.type_1 figcaption {
+  position: relative;
+  margin: -30px 15px 0;
+  padding: 40px 31px 30px;
+  border-radius: 10px; }
+  .shortcode-team.type_1 figcaption .profession {
+    text-transform: uppercase; }
+  .shortcode-team.type_1 figcaption .social-list {
+    margin-top: 1.25rem;
+    list-style: none; }
+    .shortcode-team.type_1 figcaption .social-list li {
+      display: inline-block;
+      margin: 0 5px; }
+      .shortcode-team.type_1 figcaption .social-list li:first-child {
+        margin-left: 0; }
+      .shortcode-team.type_1 figcaption .social-list li:last-child {
+        margin-right: 0; }
+    .shortcode-team.type_1 figcaption .social-list a {
+      display: block;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      position: relative; }
+      .shortcode-team.type_1 figcaption .social-list a i {
+        position: absolute;
+        font-size: 15px;
+        left: 50%;
+        top: 50%;
+        -webkit-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%); }
+
+.shortcode-team.type_2 .team-avatar-list .slick-list {
+  padding: 5px 0; }
+
+.shortcode-team.type_2 .team-avatar-list li {
+  text-align: center;
+  position: relative;
+  z-index: 1; }
+  .shortcode-team.type_2 .team-avatar-list li:not(.slick-current) {
+    opacity: .5; }
+  .shortcode-team.type_2 .team-avatar-list li div {
+    cursor: pointer;
+    display: inline-block;
+    width: 140px !important;
+    height: 140px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    border-radius: 50%;
+    position: relative; }
+    .shortcode-team.type_2 .team-avatar-list li div:before {
+      content: "";
+      position: absolute;
+      left: -5px;
+      top: -5px;
+      right: -5px;
+      bottom: -5px;
+      z-index: -1;
+      border-radius: 50%;
+      background-origin: border-box;
+      background-clip: content-box, border-box;
+      -webkit-transition: all 0.3s ease-out;
+      transition: all 0.3s ease-out; }
+  .shortcode-team.type_2 .team-avatar-list li.slick-current div {
+    -webkit-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out; }
+
+.shortcode-team.type_2 .team-content {
+  max-width: 1220px; }
+
+.shortcode-team.type_2 .person {
+  margin-top: 7.5rem; }
+  .shortcode-team.type_2 .person .person-container {
+    border-radius: 10px; }
+  .shortcode-team.type_2 .person .head .title-bl {
+    margin-bottom: 1.25rem; }
+    .shortcode-team.type_2 .person .head .title-bl .title {
+      line-height: normal; }
+      .shortcode-team.type_2 .person .head .title-bl .title a {
+        font-size: 2rem;
+        font-weight: 500; }
+    .shortcode-team.type_2 .person .head .title-bl .profession {
+      font-size: 14px;
+      text-transform: uppercase; }
+  .shortcode-team.type_2 .person .head .social-bl {
+    margin-bottom: 1rem;
+    margin-left: -5px; }
+
+.shortcode-team.type_2 .content {
+  padding: 55px 25px 55px 60px; }
+  .shortcode-team.type_2 .content .editor-content > *:last-child,
+  .shortcode-team.type_2 .content .editor-content > ul:last-child > li:last-child {
+    margin-bottom: 0; }
+
+.shortcode-team.type_2 .photo {
+  border-radius: 10px;
+  overflow: hidden;
+  position: absolute;
+  top: -40px; }
+  .shortcode-team.type_2 .photo button {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    overflow: hidden;
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%);
+    border: 0;
+    opacity: .75;
+    -webkit-transition: .2s ease-out;
+    transition: .2s ease-out; }
+    .shortcode-team.type_2 .photo button i {
+      position: absolute;
+      top: 50%;
+      -webkit-transform: translateY(-50%);
+              transform: translateY(-50%);
+      font-size: 22px; }
+    .shortcode-team.type_2 .photo button.prev {
+      left: -40px;
+      -webkit-box-shadow: -4px 0 10px 0 rgba(0, 0, 0, 0.15) inset;
+              box-shadow: -4px 0 10px 0 rgba(0, 0, 0, 0.15) inset; }
+      .shortcode-team.type_2 .photo button.prev i {
+        right: 22px; }
+    .shortcode-team.type_2 .photo button.next {
+      right: -40px;
+      -webkit-box-shadow: 4px 0 10px 0 rgba(0, 0, 0, 0.15) inset;
+              box-shadow: 4px 0 10px 0 rgba(0, 0, 0, 0.15) inset; }
+      .shortcode-team.type_2 .photo button.next i {
+        left: 22px; }
+    .shortcode-team.type_2 .photo button:hover {
+      opacity: 1; }
+
+.shortcode-team.type_2 .social-list li a {
+  cursor: pointer; }
+  .shortcode-team.type_2 .social-list li a span {
+    border-radius: 50%; }
+
+@media screen and (max-width: 1200px) {
+  .shortcode-team.type_2 .content {
+    padding: 40px; }
+  .shortcode-team.type_2 .person .person-container {
+    margin-right: 0; }
+  .shortcode-team.type_2 .slider-wrapper {
+    text-align: center;
+    padding: 0 40px 40px; }
+    .shortcode-team.type_2 .slider-wrapper .photo {
+      top: 0;
+      right: 0;
+      display: inline-block;
+      position: relative; } }
+
+@media screen and (max-width: 992px) {
+  .shortcode-team.type_1 .person-container {
+    margin-bottom: 3.75rem; }
+  .shortcode-team.type_1 .slick-slider .person-container {
+    margin-bottom: 0; }
+  .shortcode-team.type_1 .slider-controls {
+    display: none; } }
+
+/*# sourceMappingURL=style.css.map */
