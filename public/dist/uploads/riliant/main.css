@@ -1498,12 +1498,12 @@ html, body {
   padding-top: 100px;
   padding-bottom: 100px;
   position: relative;
-  background: url(https://bjerkeroyal.no/wp-content/uploads/2019/04/baner.jpg) no-repeat; background-position: center center; background-size: cover; }
+  background: url(/dist/uploads/2019/04/baner.jpg) no-repeat; background-position: center center; background-size: cover; }
   #titlebar > .container {
     position: relative;
     z-index: 2; }
 
 section.error-page {
-  background: url(https://bjerkeroyal.no/wp-content/uploads/2018/10/404_bg.jpg) no-repeat; background-position: top center; background-size: cover; }
+  background: url(/dist/uploads/2018/10/404_bg.jpg) no-repeat; background-position: top center; background-size: cover; }
   section.error-page .not_found_content {
     text-align: right; }

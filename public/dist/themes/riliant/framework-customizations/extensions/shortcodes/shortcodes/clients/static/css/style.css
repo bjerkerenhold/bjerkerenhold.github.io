@@ -1,0 +1,26 @@
+.shortcode-clients {
+  padding-top: 4.375rem;
+  padding-bottom: 4.375rem; }
+  .shortcode-clients .col-client {
+    outline: none;
+    text-align: center; }
+    .shortcode-clients .col-client a {
+      outline: none; }
+    .shortcode-clients .col-client img {
+      display: inline-block;
+      opacity: 0.5;
+      -webkit-transition: all 0.3s ease-out;
+      transition: all 0.3s ease-out; }
+      .shortcode-clients .col-client img:hover {
+        opacity: 1;
+        -webkit-transition: all 0.3s ease-out;
+        transition: all 0.3s ease-out; }
+  .shortcode-clients .slick-track {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center; }
+
+/*# sourceMappingURL=style.css.map */
