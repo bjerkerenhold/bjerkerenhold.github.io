@@ -5774,8 +5774,6 @@ footer .widget .logo-footer {
     height: 80px; }
     .header-line-wrapper.affix-top {
       height: 80px; }
-      .header-line-wrapper.affix-top header.type-1 {
-        height: 80px; }
   header {
     /*== HEADER TYPE 1 ==*/
     /*== HEADER TYPE 2 ==*/
@@ -5788,9 +5786,6 @@ footer .widget .logo-footer {
       height: 60px; }
     header .logo img {
       height: 40px; }
-    header .menu-1 > li {
-      margin: 0 15px;
-      line-height: 80px !important; }
     header .top-bar-social .social-list div {
       font-size: 12px; }
     header .social-list .square40 {
@@ -5801,8 +5796,6 @@ footer .widget .logo-footer {
       line-height: 30px; }
     header .menu-1 > li > a:after {
       right: -15px; }
-    header.type-1 {
-      height: 80px; }
       header.type-1.affix-top {
         height: 60px; }
         header.type-1.affix-top .menu-1 > li {

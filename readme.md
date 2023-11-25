@@ -171,7 +171,6 @@ curl 'https://bjerkeroyal.no/dist/themes/riliant/assets/libs/jquery/lightbox2/im
 curl 'https://bjerkeroyal.no/dist/themes/riliant/assets/libs/jquery/lightbox2/images/loading.gif' > dist/themes/riliant/assets/libs/jquery/lightbox2/images/loading.gif
 curl 'https://bjerkeroyal.no/dist/themes/riliant/assets/libs/jquery/lightbox2/images/close.png' > dist/themes/riliant/assets/libs/jquery/lightbox2/images/close.png
 
-curl 'https://bjerkeroyal.no/wp-content/uploads/2019/05/logotype_color.png' > dist/uploads/2019/05/logotype_color.png
 curl 'https://bjerkeroyal.no/wp-content/uploads/2019/04/tork2.png' > dist/uploads/2019/04/tork2.png
 curl 'https://bjerkeroyal.no/wp-content/uploads/2019/04/slider_katrin_02.jpg' > dist/uploads/2019/04/slider_katrin_02.jpg
 curl 'https://bjerkeroyal.no/wp-content/uploads/2019/04/baner.jpg' > dist/uploads/2019/04/baner.jpg
@@ -196,7 +195,6 @@ curl 'https://bjerkeroyal.no/wp-content/uploads/riliant/shortcodes/689.css' > di
 curl 'https://bjerkeroyal.no/wp-content/uploads/riliant/shortcodes/716.css' > dist/uploads/riliant/shortcodes/716.css
 curl 'https://bjerkeroyal.no/wp-content/uploads/riliant/shortcodes/752.css' > dist/uploads/riliant/shortcodes/752.css
 curl 'https://bjerkeroyal.no/wp-content/uploads/2019/04/Skovly-avlastnings-matter.png' > dist/uploads/2019/04/Skovly-avlastnings-matter.png
-curl 'https://bjerkeroyal.no/wp-content/uploads/2019/04/logotype.png' > dist/uploads/2019/04/logotype.png
 curl 'https://bjerkeroyal.no/wp-content/uploads/2019/04/7-Espen-Kvien-bilde-700x467.jpg' > dist/uploads/2019/04/7-Espen-Kvien-bilde-700x467.jpg
 curl 'https://bjerkeroyal.no/wp-content/uploads/2019/04/dennis1-700x467.jpg' > dist/uploads/2019/04/dennis1-700x467.jpg
 curl 'https://bjerkeroyal.no/wp-content/uploads/2019/04/arild3-700x467.jpg' > dist/uploads/2019/04/arild3-700x467.jpg
