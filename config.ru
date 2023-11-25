@@ -1,4 +1,4 @@
-use Rack::Static, urls: [""], root: "public", index: "index.html"
+use Rack::Static, urls: [""], root: "docs", index: "index.html"
 run Proc.new { |env|
   puts "the app is working"
   [ '200',
