@@ -1,0 +1,18 @@
+#svg-logo path {
+  fill: #FFFFFF;
+}
+#logo-name {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: white
+}
+#logo-wrapper #svg-logo path , #logo-wrapper  #logo-name {
+  transition: 1s;
+}
+#logo-wrapper:hover #svg-logo path {
+  fill: #00c7db;
+}
+#logo-wrapper:hover  #logo-name {
+  color: #00c7db;
+}
