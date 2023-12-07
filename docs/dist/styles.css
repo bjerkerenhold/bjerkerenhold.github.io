@@ -16,3 +16,8 @@
 #logo-wrapper:hover  #logo-name {
   color: #00c7db;
 }
+
+#logo-name {
+  text-transform: uppercase;
+  font-weight: 600;
+}
