@@ -10,3 +10,8 @@ Plan is to just fix small stuff from time to time. At some point it's probably b
 
 
 I used https://boxy-svg.com/ to edit the SVG
+
+
+### meetingnotes 2023-12-7 
+
+Dennis want some more photos, customer review. We find this and send it to Simon at some point.
